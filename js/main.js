@@ -124,7 +124,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                imageUrl: 'img/capture4.png',
+                imageUrl: 'img/beo.png',
                 imageWidth: 300,
                 imageHeight: 300,
                 background: '#fff url("img/iput-bg.jpg")',
